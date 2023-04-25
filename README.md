@@ -1,6 +1,6 @@
 # Processing and Analyzing Data on Maternal Health Outcome in Nigeria
 
-This data analysis project was done with DSSG (https://www.solveforgood.org/proj/54/)
+This data analysis project was done between HelpMum Africa and DSSG in the USA.
 
 Code Contributors -
 Olayile Ejekwu (https://github.com/olayile),
